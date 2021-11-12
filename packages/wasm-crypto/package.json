@@ -21,7 +21,7 @@
     "@axia-js/x-randomvalues": "0.1.0"
   },
   "peerDependencies": {
-    "@axia-js/util": "*",
-    "@axia-js/x-randomvalues": "*"
+    "@axia-js/util": "0.1.0",
+    "@axia-js/x-randomvalues": "0.1.0"
   }
 }
