@@ -1,7 +1,7 @@
 // Copyright 2019-2021 @axia-js/wasm-crypto authors & contributors
 // SPDX-License-Identifier: Apache-2.0
 
-import { createBundle } from '@axia-js/dev/config/rollup';
+import { createBundle } from '@axia-js/dev/config/rollup.js';
 
 const pkgs = [
   '@axia-js/wasm-crypto'
